@@ -17,9 +17,7 @@ def menu():
     ╩ ╩╚═╝ ╩ ╚═╝  ╚═╝╩ ╩ \n
 [01] - project upload
 [02] - Update Project
-[03] - Credits
-[99] - Exit
-		""")
+	""")
     cmd = str(input("===> "))
     if cmd == '1':
         fun_upload()
