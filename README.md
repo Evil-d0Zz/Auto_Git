@@ -13,5 +13,5 @@ Have you ever been angry when uploading a project on github? or you're just star
 ~$ cd PYscanner-
 
 #running the installer
-~$ python3 auto_git
+~$ python3 install.py
 ```
