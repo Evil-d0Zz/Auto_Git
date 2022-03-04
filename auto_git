@@ -3,9 +3,7 @@
 #
 from os import system
 from time import sleep
-#from libs import upload
-#from libs import update
-#
+
 #
 
 
