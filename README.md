@@ -10,7 +10,7 @@ Have you ever been angry when uploading a project on github? or you're just star
 ~$ git clone https://github.com/N3w-elf/Auto_Git.git
 
 # Enter folder
-~$ cd PYscanner-
+~$ cd Auto_Git
 
 #running the installer
 ~$ python3 install.py
