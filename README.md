@@ -7,7 +7,7 @@ Have you ever been angry when uploading a project on github? or you're just star
 ## Help
 ```bash
 # clone the repository
-~$ git clone https://github.com/N3w-elf/Auto_Git.git
+~$ git clone https://github.com/Evil-d0Zz/Auto_Git.git
 
 # Enter folder
 ~$ cd Auto_Git
